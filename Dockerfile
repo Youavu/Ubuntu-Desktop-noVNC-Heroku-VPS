@@ -23,6 +23,7 @@ RUN apt-get update && \
     apt install curl -y  && \
     apt install wget -y  && \ 
     apt install zip -y  && \
+    apt install actiona -y  && \
     apt install unzip -y  && \
     apt install falkon -y  && \
     apt-get autoclean -y  && \
